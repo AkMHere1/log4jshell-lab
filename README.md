@@ -15,7 +15,7 @@ A basic research lab to learn more about `Log4Shell`:
 
 ```
 sudo su
-git clone https://github.com/Cyb3rWard0g/log4jshell-lab
+git clone https://github.com/AkMHere1/log4jshell-lab
 ```
 ### Run Docker Compose File
 
